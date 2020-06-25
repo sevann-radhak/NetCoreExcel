@@ -1,6 +1,6 @@
 ﻿namespace NetCoreExcel.Models
 {
-    public class Car
+    public class CarResponse
     {
         public string NMarca { get; set; }
         public string Marca { get; set; }
